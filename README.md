@@ -13,7 +13,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/nguyentrisinh/nguyentrisinh/master/undraw_Upvote_re_qn2k.svg" width="500" height="320" />
   
 ### **🌈 Talking about Personal Stuffs:**
 
@@ -27,7 +27,7 @@
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/upwork.svg" />][upwork]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
 <a href="skype:trisinh1996?chat" target="_blank">
-  <img alt="skype" height="26px" src="https://raw.githubusercontent.com/nguyentrisinh/nguyentrisinh/master/undraw_Upvote_re_qn2k.svg" />
+  <img alt="skype" height="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/skype.svg" />
 </a>
 
 ### **🔥 Languages and Tools:**
